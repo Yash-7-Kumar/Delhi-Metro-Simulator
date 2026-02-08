@@ -357,11 +357,6 @@ This project is intentionally **low-level and explicit** to demonstrate:
 ✔ Real-world system modeling  
 ✔ Clean logic over abstraction  
 
-It is suitable for:
-- Computer Organization / Systems projects
-- Algorithmic simulations
-- Python fundamentals with real-world context
-
 ---
 
 🚇 *Built to simulate reality, not shortcut it.*

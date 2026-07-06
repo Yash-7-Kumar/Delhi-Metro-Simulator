@@ -104,7 +104,7 @@ def exit():
     """
     Print a friendly exit message and return to caller.
     """
-    print(f"\n{GREEN}{BOLD}👋 Thank you for using the Delhi Metro Simulator!{RESET}\n")
+    print(f"\n{GREEN}{BOLD}👋 Thank you for using the Delhi Metro Simulator! Made with 🧠 by Yash Kumar{RESET}\n")
 
 
 # ============================================================
@@ -1314,6 +1314,8 @@ def main():
 print(f"{CYAN}{BOLD}┌──────────────────────────────────────┐{RESET}")
 print(f"{CYAN}{BOLD}│   🚇  Delhi Metro Simulator Menu     │{RESET}")
 print(f"{CYAN}{BOLD}└──────────────────────────────────────┘{RESET}")
+print(f"\t{BOLD}{RED}  Made by {WHITE}{UNDER}Yash Kumar{RESET} 🤟 ")
+print()
 
 print(f"📌 {YELLOW}{ITALIC}{BOLD}{UNDER}Dear user, Please enter all your choices in the complete simulater by entering number beside the option you want to choose.{RESET}")
 
